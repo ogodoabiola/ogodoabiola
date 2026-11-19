@@ -1,47 +1,49 @@
 <h1 align="center">Abiola Ogodo</h1>
 
 <p align="center">
-  CTO at <a href="https://modulaw.ai"><b>ModulawAI</b></a> · Software Developer at <b>Beestudiox</b>
+  CEO at <a href="https://modulaw.ai"><b>ModulawAI</b></a> · CTO at <b>Modluc</b> · Founder of <a href="https://beestudiox.com"><b>Beestudiox</b></a>
   <br/>
-  I build AI software that law firms actually run their day on.
+  I build software that solves problems I've lived through.
 </p>
 
 <p align="center">
   <a href="https://modulaw.ai"><img src="https://img.shields.io/badge/modulaw.ai-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="modulaw.ai"/></a>
+  <a href="https://mavscans.com"><img src="https://img.shields.io/badge/mavscans.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="mavscans.com"/></a>
+  <a href="https://beestudiox.com"><img src="https://img.shields.io/badge/beestudiox.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="beestudiox.com"/></a>
   <a href="https://linkedin.com/in/ogodo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/whizbee"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
 ---
 
-### What I'm building
+### ⚖️ ModulawAI · CEO
 
-**[ModulawAI](https://modulaw.ai)** is an AI workspace for law firms. One place for legal research, cases, documents, billing and the firm's back office, with AI that does the work inside it rather than beside it.
+**[ModulawAI](https://modulaw.ai)** is an AI workspace for law firms: legal research, cases, documents, billing and the firm's back office in one place, with AI that does the work inside it rather than beside it.
 
-As CTO I own the architecture and ship most of it:
+- AI agents that research case law, draft documents and run firm workflows, with a person approving each step that matters
+- Runs on the web, desktop, Microsoft Word, Chrome and through MCP
+- ISO 27001 certified, with SSO and MFA
 
-- **AI agents** that research case law, draft and edit documents, and run firm workflows with a human approving each step that matters
-- **Legal research** over statutes and case law with hybrid vector and keyword retrieval
-- **Firm operations**: case management, requisitions and approvals, invoicing, trust accounting
-- **Every surface**: web app, desktop app (Electron), Microsoft Word add-in, Chrome extension and an MCP server
-- **Security**: ISO 27001 certified, SSO, MFA, multi-tenant from day one
+### 🔍 Modluc · CTO
 
-At **Beestudiox** I build web and mobile products for clients.
+We're building **[MavScan](https://mavscans.com)** to catch fake products before people buy or use them. We started it after we were sold a fake product ourselves.
 
-### Stack
+- Scan a product and get a clear result with the reasons behind it, never a bare "verified"
+- Checks against manufacturers' own reference data and unique codes printed on each pack, which counterfeiters can't copy
+- Label reading, reports from the public, and a review queue for staff and manufacturers
+
+### 🚀 Beestudiox · Founder
+
+**[Beestudiox](https://beestudiox.com)** is a digital transformation agency. We help businesses move their work onto modern software: websites, apps, automation and the systems behind them.
+
+### 🛠️ Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,express,mongodb,redis,electron,aws,docker,githubactions,tailwind,wordpress&perline=14" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,mongodb,postgres,redis,electron,aws,docker,githubactions,tailwind,wordpress&perline=16" alt="Tech stack"/>
 </p>
 
-LangGraph · LangChain · OpenAI and Anthropic APIs · Vector search · Playwright
+React Native · LangGraph · OpenAI and Anthropic APIs · Vector search · Playwright
 
-### Right now
+### 📫 Get in touch
 
-- Taking ModulawAI to firms in the US and Europe
-- Making the desktop app run models fully on-device
-- Pushing Word document fidelity so nothing breaks between ModulawAI and Microsoft Word
-
-### Get in touch
-
-Building something in legal tech, or want to see ModulawAI on your firm's work? Reach me on [LinkedIn](https://linkedin.com/in/ogodo) or [X](https://twitter.com/whizbee).
+Working on legal tech, product authenticity, or a business that needs to go digital? Reach me on [LinkedIn](https://linkedin.com/in/ogodo) or [X](https://twitter.com/whizbee).
